@@ -4,8 +4,8 @@ As has been [repeatedly asked for](https://support.discord.com/hc/en-us/communit
 
 ## Usage instructions
 
-1. Create a file `/etc/apt/sources.list.d/discord.list` with the contents `deb https://palfrey.github.io/discord-apt/debian/ ./`
-2. Download the file https://palfrey.github.io/discord-apt/discord-apt.gpg.asc to `/etc/apt/trusted.gpg.d`
+1. Create a file `/etc/apt/sources.list.d/discord.list` with the contents `deb https://discord-repo-apt.wolfieog.xyz/debian/ ./`
+2. Download the file https://discord-repo-apt.wolfieog.xyz/discord-apt.gpg.asc to `/etc/apt/trusted.gpg.d`
 3. `sudo apt-get update`
 4. Install the desired version
 
